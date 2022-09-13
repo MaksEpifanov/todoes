@@ -1,0 +1,11 @@
+{
+  "name": "todoes",
+  "displayName": "todoes",
+  "web": {
+    "build": { 
+      "babel": { 
+        "include": [ "@ui-kitten/components" ] 
+        }
+      }
+    }
+}
